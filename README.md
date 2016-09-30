@@ -10,7 +10,11 @@ Search for a regular expression in all files inside a folder
 * PDF
 
 ## How to Install
-    TODO
+```bash
+$ pip install pdfminer.six
+
+TODO
+```
 
 ## How to Use
 **1. Use in command-line:**
